@@ -1,0 +1,2 @@
+# Gambiarras
+ Meus primeiro repostirio 

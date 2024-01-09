@@ -25,6 +25,9 @@ resultado = cursor.fetchall()
 paises = [r[0] for r in resultado]
 quantidade = list([r[1] for r in resultado])
 
+"""paises = ['France', 'USA', 'Australia', 'Germany', 'Spain', 'UK', 'Italy', 'New Zealand']
+quantidade = [12, 36, 5, 13, 7, 5, 4, 4]"""
+
 #gambiarra iniciando
 
 cor = [RGB(randint(0, 255), randint(0, 255), randint(0, 255)) for _ in range(len(paises))]

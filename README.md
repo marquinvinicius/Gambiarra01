@@ -1,4 +1,1 @@
-# Gambiarras
- Meus primeiro repositório 
-
-Mais um ensinamento do Guanabara
+#Aprendendo a usar isso 

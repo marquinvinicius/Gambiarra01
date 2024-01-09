@@ -1,2 +1,2 @@
 # Gambiarras
- Meus primeiro repostirio 
+ Meus primeiro repositório 

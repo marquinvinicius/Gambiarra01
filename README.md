@@ -1,8 +1,3 @@
-# Gambiarras
-Meus primeiro repositório 
+Bokeh
 
-Mais um ensinamento do Guanabara
-
-Por algum motivo, está ficado "da" Guanabara
-
-Tomando uma surra disso ok 
+Formas de visualizar dados

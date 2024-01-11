@@ -33,7 +33,7 @@ quantidade = [12, 36, 5, 13, 7, 5, 4, 4]"""
 cor = [RGB(randint(0, 255), randint(0, 255), randint(0, 255)) for _ in range(len(paises))]
 fonte = ColumnDataSource(data=dict(paises=paises, quantidade=quantidade, color=cor))
 
-p = figure(x_range=paises, plot_height=400, title='Gambiarra Master',
+p = figure(x_range=paises, plot_height=400, title='Gambiarra Master',sizing_mode="stretch_both",
            toolbar_location=None, tools='')
 #dados de baixo, tamanho, ferramentas
 p.vbar(x='paises', top='quantidade', width=0.5, color='color',
